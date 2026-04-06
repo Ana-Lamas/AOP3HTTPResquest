@@ -23,5 +23,8 @@ A lógica desenvolvida segue o fluxo de interoperabilidade moderno:
 2. Clone este repositório:
    ```bash
    git clone [https://github.com/Ana-Lamas/AOP3HTTPResquest.git](https://github.com/Ana-Lamas/AOP3HTTPResquest)
+3. Navegue até a pasta do projeto e execute:
+   ```bash
+   dotnet run
 
 ## Desenvolvido por: Ana Caroline Lamas Rosa Corteletti
